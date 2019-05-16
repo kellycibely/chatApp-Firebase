@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="nav_drawer_username">kelly cibely</string>
+    <string name="nav_drawer_email">kellycibely@gmail</string>
+    <string name="action_about">Sobre</string>
+
+    <string name="favoritos">Favoritos</string>
+    <string name="conversas">Conversas</string>
+    <string name="site_meow">Sobre Nós</string>
+    <string name="configuracoes">Configurações</string>
+
+    <string-array name="title_tab">
+        <item>favorito</item>
+        <item>conversas</item>
+        <item>configuracoes</item>
+    </string-array>
+</resources>
